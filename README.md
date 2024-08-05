@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Jhandry
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](www.linkedin.com/in/jhandrychimbo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/jhandry-chimbo-044a69264/)
 
 
 ## Sobre mí
