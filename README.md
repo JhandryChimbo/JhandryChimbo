@@ -1,7 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Jhandry</h1>
 
-# ¡Hola! 👋 Soy Jhandry
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/jhandry-chimbo-044a69264/)
 
 
