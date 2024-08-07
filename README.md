@@ -1,4 +1,5 @@
 <h1 align="center">¡Hi there! 👋</h1>
+<img src='https://github.com/JhandryChimbo/JhandryChimbo/blob/main/Banner-Jhandry.png?raw=true'> 
 
 I'm Jhandry, <strong>Student Front-end Developer</strong>.  
 From Loja, Ecuador.  
