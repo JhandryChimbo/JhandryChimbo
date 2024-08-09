@@ -54,7 +54,7 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ## Keep in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jhandrychimbo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhandrychimbo/) 
 
 
 
