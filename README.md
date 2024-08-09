@@ -36,8 +36,11 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ### Design Tools
 <div>
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 </div>
+
 
 ### Version Control
 <div>
@@ -52,9 +55,16 @@ I am a passionate front-end developer currently studying Computer Science at the
 </div>
 
 ## 📊 GitHub Stats
+<div align="center">
+  
 ![Jhandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhandryChimbo&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhandryChimbo&layout=compact&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JhandryChimbo&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
 
 
 ## Keep in touch
