@@ -1,6 +1,5 @@
 <h1 align="center">¡Hi there! 👋</h1>
 
-
 <img src='https://github.com/JhandryChimbo/JhandryChimbo/blob/main/Banner-Jhandry.png?raw=true'> 
 
 I'm Jhandry, <strong>Student Front-end Developer</strong>.  
@@ -51,6 +50,12 @@ I am a passionate front-end developer currently studying Computer Science at the
 <div>
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
+
+## 📊 GitHub Stats
+![Jhandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhandryChimbo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhandryChimbo&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JhandryChimbo&theme=radical)](https://git.io/streak-stats)
+
 
 ## Keep in touch
 
