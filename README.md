@@ -1,4 +1,6 @@
 <h1 align="center">¡Hi there! 👋</h1>
+
+
 <img src='https://github.com/JhandryChimbo/JhandryChimbo/blob/main/Banner-Jhandry.png?raw=true'> 
 
 I'm Jhandry, <strong>Student Front-end Developer</strong>.  
@@ -52,7 +54,7 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ## Keep in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhandry-chimbo-044a69264/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jhandrychimbo) 
 
 
 
