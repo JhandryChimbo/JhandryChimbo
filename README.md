@@ -64,9 +64,6 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ![Jhandry's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhandryChimbo&theme=radical)
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5.3%20M-blue?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/JhandryChimbo?style=for-the-badge&logo=github)
-![Repo Views](https://komarev.com/ghpvc/?username=JhandryChimbo&color=green&style=for-the-badge)
 
 </div>
 
