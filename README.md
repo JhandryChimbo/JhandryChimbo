@@ -55,22 +55,17 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-![Jhandry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhandryChimbo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats)
+  <a href="https://github.com/JhandryChimbo/github-stats">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhandryChimbo&layout=compact&theme=radical&count_private=true)
+<img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JhandryChimbo&theme=radical)](https://git.io/streak-stats)
-
 ![Jhandry's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhandryChimbo&theme=radical)
 
-![](https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+</a>
 </div>
+
 
 ## Keep in touch
 
