@@ -1,11 +1,13 @@
 <h1 align="center">¡Hi there! 👋</h1>
 
+
 I'm Jhandry, <strong>Student Front-end Developer</strong>.  
 From Loja, Ecuador.  
 Studying Computer Science at the National University of Loja.  
 Discover here all my future projects.
 
 ## About Me
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 I am a passionate front-end developer currently studying Computer Science at the National University of Loja. My interests lie in creating visually appealing and user-friendly web applications. I enjoy combining my skills in development, design, and illustration to craft engaging digital experiences. In my free time, I love experimenting with new web technologies and improving my design skills.
 
 ## Skills
