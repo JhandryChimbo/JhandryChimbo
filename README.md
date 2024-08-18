@@ -64,6 +64,8 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ![Jhandry's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhandryChimbo&theme=radical)
 
+![](https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 </div>
 
