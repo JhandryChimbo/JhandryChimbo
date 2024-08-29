@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi there! 👋</h1>
+![image](https://github.com/user-attachments/assets/cbbcf101-1a5b-4335-869f-e892b02aee60)<h1 align="center">¡Hi there! 👋</h1>
 
 
 I'm Jhandry, <strong>Student Front-end Developer</strong>.  
@@ -20,8 +20,8 @@ I am a passionate front-end developer currently studying Computer Science at the
 
 ### Web Development
 <div>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" src="https://svgl.app/library/html5.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" src="https://svgl.app/library/css.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
@@ -31,21 +31,21 @@ I am a passionate front-end developer currently studying Computer Science at the
 ### Databases
 <div>
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+<img width="40" height="40" src="https://svgl.app/library/mongodb.svg">
 </div>
 
 ### Design Tools
 <div>
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+<img width="40" height="40" src="https://svgl.app/library/illustrator.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" src="https://svgl.app/library/photoshop.svg">
 </div>
 
 ### Version Control
 <div>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
+<img width="40" height="40" src="https://svgl.app/library/git.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" src="https://svgl.app/library/gitlab.svg">&nbsp;&nbsp;&nbsp;
+<img width="40" height="40" src="https://svgl.app/library/github-dark.svg">
 </div>
 
 ### Others
