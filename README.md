@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cbbcf101-1a5b-4335-869f-e892b02aee60)<h1 align="center">¡Hi there! 👋</h1>
+<h1 align="center">¡Hi there! 👋</h1>
 
 
 I'm Jhandry, <strong>Student Front-end Developer</strong>.  
