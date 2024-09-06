@@ -57,8 +57,6 @@ I am a passionate front-end developer currently studying Computer Science at the
 <div align="center">
   <a href="https://github.com/JhandryChimbo/github-stats">
 
-<img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-<img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JhandryChimbo&theme=radical)](https://git.io/streak-stats)
 ![Jhandry's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhandryChimbo&theme=radical)
