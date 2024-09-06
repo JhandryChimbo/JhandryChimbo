@@ -6,8 +6,10 @@ From Loja, Ecuador.
 Studying Computer Science at the National University of Loja.  
 Discover here all my future projects.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhandrychimbo/) 
+
 ## About Me
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="60%"  align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 I am a passionate front-end developer currently studying Computer Science at the National University of Loja. My interests lie in creating visually appealing and user-friendly web applications. I enjoy combining my skills in development, design, and illustration to craft engaging digital experiences. In my free time, I love experimenting with new web technologies and improving my design skills.
 
 ## Skills
@@ -61,20 +63,8 @@ I am a passionate front-end developer currently studying Computer Science at the
 <img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JhandryChimbo&theme=radical)](https://git.io/streak-stats)
-![Jhandry's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhandryChimbo&theme=radical)
-
 </a>
 </div>
-
-
-## Keep in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhandrychimbo/) 
-
-
-
-
 
 <!---
 JhandryChimbo/JhandryChimbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
