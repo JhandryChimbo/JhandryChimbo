@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 **About Me**
-<img width="30%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Illustration">
+<img width="40%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
 I'm Jhandry, a **Computer Science student** with a passion for **front-end development** and **design**. I love creating visually stunning and user-friendly web applications that make an impact. When I'm not coding, you can find me experimenting with new technologies, improving my design skills, or exploring the intersection of art and technology.
 
