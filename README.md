@@ -1,55 +1,78 @@
 <h1 align="center">¡Hi there! 👋</h1>
 
-I'm Jhandry, <strong>Student Full-stack Developer</strong>.  
-From Loja, Ecuador.  
-Studying Computer Science at the National University of Loja.  
-Discover here all my future projects.
+<p align="center">
+  <strong>I'm Jhandry, Full-stack Developer in training.</strong><br>
+  From Loja, Ecuador 🌍 | Studying Computer Science at the National University of Loja 🎓<br>
+  Exploring the world of code, design, and innovation. Let's build something amazing! 🚀
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhandrychimbo/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhandrychimbo/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://komarev.com/ghpvc/?username=JhandryChimbo&color=blue&style=flat" alt="Profile Views">
+  </a>
+</p>
 
-## About Me
-<img width="60%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-I am a passionate front-end developer currently studying Computer Science at the National University of Loja. My interests lie in creating visually appealing and user-friendly web applications. I enjoy combining my skills in development, design, and illustration to craft engaging digital experiences. In my free time, I love experimenting with new web technologies and improving my design skills.
+---
 
-## Skills
+## 🚀 **About Me**
+<img width="30%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Illustration">
 
-### Programming Languages
-| JavaScript | Python | Java |
-|------------|--------|------|
-| <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></div> | <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></div> | <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></div> |
+I'm Jhandry, a **Computer Science student** with a passion for **front-end development** and **design**. I love creating visually stunning and user-friendly web applications that make an impact. When I'm not coding, you can find me experimenting with new technologies, improving my design skills, or exploring the intersection of art and technology.
 
-### Web Development
-| HTML5 | CSS3 | React | TypeScript | Node.js | Next.js |
-|-------|------|-------|------------|---------|---------|
-| <div align="center"><img width="40" height="40" src="https://svgl.app/library/html5.svg"></div> | <div align="center"><img width="40" height="40" src="https://svgl.app/library/css.svg"></div> | <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></div> | <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div> | <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></div> | <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></div> |
+- 🌱 **Learning**: Currently diving deeper into **React**, **TypeScript**, and **Next.js**.
+- 🎨 **Hobbies**: Designing illustrations, experimenting with UI/UX, and contributing to open source.
+- 💬 **Ask me about**: Front-end development, design tools, or how to balance studies with coding projects!
 
-### Databases
-| MySQL | MongoDB |
-|-------|---------|
-| <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></div> | <div align="center"><img width="40" height="40" src="https://svgl.app/library/mongodb.svg"></div> |
+---
 
-### Design Tools
-| Figma | Adobe Illustrator | Adobe Photoshop |
-|-------|--------------------|------------------|
-| <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></div> | <div align="center"><img width="40" height="40" src="https://svgl.app/library/illustrator.svg"></div> | <div align="center"><img width="40" height="40" src="https://svgl.app/library/photoshop.svg"></div> |
+## 🛠️ **Tech Stack**
 
-### Version Control
-| Git | GitLab | GitHub |
-|-----|--------|--------|
-| <div align="center"><img width="40" height="40" src="https://svgl.app/library/git.svg"></div> | <div align="center"><img width="40" height="40" src="https://svgl.app/library/gitlab.svg"></div> | <div align="center"><img width="40" height="40" src="https://svgl.app/library/github-dark.svg"></div> |
+### 🚀 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Others
-| Docker |
-|--------|
-| <div align="center"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></div> |
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📊 GitHub Stats
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+### 🛠️ Version Control & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 **GitHub Stats**
 <div align="center">
   <a href="https://github.com/JhandryChimbo/github-stats">
-    <img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-    <img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+    <img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview">
+    <img src="https://raw.githubusercontent.com/JhandryChimbo/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages">
   </a>
 </div>
+
+---
+
+### 📫 How to reach me:
+📧 Email: jhandrychimbo@gmail.com  
+💼 LinkedIn: [JhandryChimbo](https://www.linkedin.com/in/jhandrychimbo/)
+
+---
 
 
 
