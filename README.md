@@ -3,7 +3,7 @@
 <p align="center">
   <strong>I'm Jhandry, Full-stack Developer in training.</strong><br>
   From Loja, Ecuador 🌍 | Studying Computer Science at the National University of Loja 🎓<br>
-  Exploring the world of code, design, and innovation. Let's build something amazing! 🚀
+  Exploring the world of code, design, and data analyst. Let's build something amazing! 🚀
 </p>
 
 <p align="center">
